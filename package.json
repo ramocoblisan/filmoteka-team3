@@ -2,20 +2,20 @@
   "name": "filmoteka-team3",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://danielabadea.github.io/filmoteka-team3/",
+  "homepage": "https://ramocoblisan.github.io/filmoteka-team3/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka-team3/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielaBadea/filmoteka-team3.git"
+    "url": "git+https://github.com/RamoCoblisan/filmoteka-team3.git"
   },
   "keywords": [],
   "author": "JS Team 3<JSteam3@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanielaBadea/filmoteka-team3/issues"
+    "url": "https://github.com/RamoCoblisan/filmoteka-team3/issues"
   },
   "dependencies": {
     "axios": "^1.6.7",

@@ -2,10 +2,10 @@
   "name": "filmoteka-team3",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ramocoblisan.github.io/filmoteka-team3/",
+  "homepage": "https://ramocoblisan.github.io/filmoteka-team3",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-team3/"
+    "build": "parcel build src/*.html --public-url /filmoteka-team3"
   },
   "repository": {
     "type": "git",

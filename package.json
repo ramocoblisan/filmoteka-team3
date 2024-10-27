@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RamoCoblisan/filmoteka-team3.git"
+    "url": "git+https://github.com/ramocoblisan/filmoteka-team3.git"
   },
   "keywords": [],
   "author": "JS Team 3 <JSteam3@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RamoCoblisan/filmoteka-team3/issues"
+    "url": "https://github.com/ramocoblisan/filmoteka-team3/issues"
   },
   "dependencies": {
     "axios": "^1.6.7",
